@@ -1,16 +1,27 @@
-## Hi there 👋
+# Bem vindo ao ambiente do 1nsaneqy ! 👋
 
-<!--
-**1nsaneqy/1nsaneqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor apaixonado por tecnologia. 👨‍💻
 
-Here are some ideas to get you started:
+- 🖥️ **Linguagens que eu uso**: PHP, TypeScript
+- 📚 **Estou estudando**: JavaScript, Python, Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+Confira alguns dos meus projetos:
+
+- [Checker Voe Azul](https://github.com/1nsaneqy/voeazul)
+- [Checker Receita Digital](https://github.com/1nsaneqy/receitadigital)
+
+## 🛠️ Tecnologias que eu utilizo
+
+- **Linguagens**: PHP, TypeScript, JavaScript, Python, Go
+- **Ferramentas**: Git, Docker, Node.js, etc.
+
+## 📫 Como me encontrar
+
+- 📧 Email: [contato@1nsane.gg]
+- 🌐 Telegram: [https://t.me/p2aqui]
+
+---
+
+Vamos codar! 👨‍💻
