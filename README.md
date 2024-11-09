@@ -19,8 +19,8 @@ Confira alguns dos meus projetos:
 
 ## 📫 Como me encontrar
 
-- 📧 Email: [contato@1nsane.gg]
-- 🌐 Telegram: [https://t.me/p2aqui]
+- 📧 Email: contato@1nsane.gg
+- 🌐 Telegram: https://t.me/p2aqui
 
 ---
 
