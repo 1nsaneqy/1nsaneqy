@@ -11,6 +11,7 @@ Confira alguns dos meus projetos:
 
 - [Checker Voe Azul](https://github.com/1nsaneqy/voeazul)
 - [Checker Receita Digital](https://github.com/1nsaneqy/receitadigital)
+- [Phishing Instagram](https://github.com/1nsaneqy/instagram)
 
 ## 🛠️ Tecnologias que eu utilizo
 
