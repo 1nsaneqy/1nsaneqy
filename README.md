@@ -14,6 +14,7 @@ Confira alguns dos meus projetos:
 - [Phishing Instagram](https://github.com/1nsaneqy/instagram)
 - [Checker Kabum](https://github.com/1nsaneqy/kabum)
 - [Checker/Consulta SI-PNI](https://github.com/1nsaneqy/sipni)
+- [Checker Domino's Puxando Card](https://github.com/1nsaneqy/dominos)
 
 ## 🛠️ Tecnologias que eu utilizo
 
