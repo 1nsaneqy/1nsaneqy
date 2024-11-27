@@ -3,7 +3,7 @@
 Desenvolvedor apaixonado por tecnologia. 👨‍💻
 
 - 🖥️ **Linguagens que eu uso**: PHP, TypeScript
-- 📚 **Estou me aprofundando em**: JavaScript, Python, Go
+- 📚 **Aprofundando em**: JavaScript, Python, Go
 
 ## 🚀 Projetos
 
